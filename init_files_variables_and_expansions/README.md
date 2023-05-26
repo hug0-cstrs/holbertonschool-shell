@@ -20,7 +20,7 @@ Project done during **Full Stack Software Engineering studies** at **Holberton S
 * You are not allowed to use `sed` or `awk`
 * All your files must be executable
 
-## Files
+## Files :scroll:
 All of the following files are scripts:
 
 |**Filename**|**Description**|
