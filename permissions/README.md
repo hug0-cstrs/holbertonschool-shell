@@ -17,10 +17,10 @@ Project done during **Full Stack Software Engineering studies** at **Holberton S
 * You are not allowed to use `backticks`, `&&`, `||` or `;`
 * All your files must be executable
 
-## Files
+## Files :scroll:
 All of the following files are scripts:
 
-| Filename | Description |
+| **Filename** | **Description** |
 |:-------|:---------:|
 | `0-iam_betty` | Changes your user ID to `betty` |
 | `1-who_am_i` | Prints the effective userid of the current user |
